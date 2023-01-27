@@ -1,3 +1,6 @@
+This repository is an unofficial fork of komeiji-satori/Dress.  
+本仓库是 komeiji-satori/Dress 的非官方分支版本。
+
 ## Dress - 面向可爱的蓝孩子 (/ω＼) 的 git 学习实践项目 on GitHub
 
 ### Dress - A Study and Practice project of git.
